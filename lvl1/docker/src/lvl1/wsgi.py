@@ -1,3 +1,3 @@
-from lvl1 import app
+from rand import app
 if __name__ == "__main__":
     app.run()
