@@ -9,7 +9,8 @@ RUN apt-get -yq install vim htop
 WORKDIR /root
 
 ADD src /root/
+ADD etc/nginx/sites-enabled/lvl1 /etc/nginx/sites-enabled/
 
 
 
-ENTRYPOINT bash
+ENTRYPOINT ./entry.sh
