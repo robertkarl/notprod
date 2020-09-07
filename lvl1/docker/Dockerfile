@@ -1,9 +1,15 @@
 FROM ubuntu
+ENV PYTHONUNBUFFERED 1
 
-RUN apt-get -y update
-RUN apt-get -y install nginx uwsgi
-RUN apt-get -y install python3 bash
-RUN apt-get -y install vim
+RUN apt-get -yq update
+RUN apt-get -yq install nginx uwsgi
+RUN apt-get -yq install python3 python3-dev bash
+RUN apt-get -yq install vim htop
+
+WORKDIR /root
+
+ADD src /root/
+
 
 
 ENTRYPOINT bash

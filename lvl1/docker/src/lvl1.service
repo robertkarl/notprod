@@ -1,0 +1,12 @@
+[Unit]
+Description=uWSGI instance to serve lvl1
+After=network.target
+
+[Service]
+User=root
+Group=root
+WorkingDirectory=/root/lvl1
+ExecStart=uwsgi --ini lvl1.ini
+
+[Install]
+WantedBy=multi-user.target
