@@ -2,11 +2,9 @@ FROM ubuntu
 ENV PYTHONUNBUFFERED 1
 
 RUN apt-get -yq update
-RUN apt-get -yq install nginx
-RUN apt-get -yq install python3 python3-dev bash
-RUN apt-get -yq install vim htop
-RUN apt-get -yq install curl httpie
-RUN apt-get -yq install python3-pip
+RUN apt-get -yq install python3 python3-dev bash nginx
+RUN apt-get -yq install vim htop curl httpie python3-pip
+
 RUN pip3 install uwsgi flask
 
 WORKDIR /root
