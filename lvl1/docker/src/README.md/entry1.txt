@@ -14,7 +14,7 @@ It's supposedly a 1-character change and we could increase revenue 25%? Who woul
 have thought.
 
 He kept talking about Etsy and Top but I have no idea why that's important.
-And apparently, you can use `ps T` and kill with no arguments to force a refresh on
+And apparently, you can use `ps T` and `kill` with no flags to force a refresh on
 the UWTFSGI config... but who has time for that. I'm getting amped on espresso
 and practicing for the big tourney.
 
