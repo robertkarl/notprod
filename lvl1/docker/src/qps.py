@@ -4,7 +4,7 @@ import time
 COUNT = 1
 start = time.time()
 for i in range(COUNT):
-	p1 = Popen(["curl", "localhost:5000/process_payment"], stdout=PIPE)
+	p1 = Popen(["curl", "http://localhost/process_payment"], stdout=PIPE)
 	p1.communicate()
 delta = time.time() - start
 QPS = delta / COUNT

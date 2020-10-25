@@ -1,0 +1,15 @@
+Justin left today for another Big Tech Co. Right in the middle of our
+payment processing debacle... People wearing suits keep coming by 
+our open workspace, taking critical espresso-machine-line-space and asking
+about revenue and stuff I don't care about.
+
+Anyways. According to Justin if we could just configure WSGI (and it's
+supposedly a 1-character change) we could increase revenue 25%? Who would 
+have thought.
+
+
+He kept talking about Etsy and Top but I have no idea why that's important.
+
+It'll have to wait until after the ping-pong tourney though. Dev/ops has
+a serious chance in the doubles spot, even though we'll never beat Zoran 
+from sales in singles.

@@ -15,5 +15,5 @@ ADD etc/nginx/sites-enabled/lvl1 /etc/nginx/sites-enabled/
 RUN rm -rf /etc/nginx/sites-enabled/default
 
 
-ENTRYPOINT ./entry.sh
+ENTRYPOINT /root/entry.sh
 
