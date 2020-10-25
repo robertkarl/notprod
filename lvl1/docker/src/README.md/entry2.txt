@@ -1,4 +1,4 @@
-DEV LOG ENTRY 2
+SNOOG DEV LOG ENTRY 2
 
 
 
@@ -20,4 +20,8 @@ In case I need to make another copy of this dev instance, here's the command:
 
   dd if=/dev/sda1 of=/dev/sda2 bs=4M
 
-Remember to install a new SSD beforehand. ROFL
+Remember to install a new SSD beforehand. ROFL!!!111!
+
+Deploying will have to wait until after the ping-pong tourney though. Dev/ops has
+a serious chance in the doubles spot, even though we'll never beat Zoran
+from sales in singles.
