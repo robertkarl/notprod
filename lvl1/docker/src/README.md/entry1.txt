@@ -4,17 +4,24 @@ SNOOG DEV LOG ENTRY 1
 
 Justin left today for another Big Tech Co. Right in the middle of our
 payment processing debacle... People wearing suits keep coming by
-our open workspace, taking critical espresso-machine-line-space and asking
-about revenue and stuff I don't care about.
+the cube, taking critical espresso-machine-line-space and asking
+about revenue and shit I don't care about.
 
 Anyways. According to Justin if we could just configure WSGI (More like WTFSGI
- amirite? hahaha.... I crack myself up).
+ amirite? hahaha.... I crack myself up) properyl we'd have a huge bottom-line win.
 
-It's supposedly a 1-character change and we could increase revenue 25%? Who would
-have thought.
+It's supposedly a 1-character change and we could increase revenue 25%? It's something straight
+out of code golf. Who would have thought. As long as we can get QPS over 3 we're golden. His words.
 
-He kept talking about Etsy and Top but I have no idea why that's important.
+
+He kept talking about Etsy and Top but I have no idea why second-hand goods are important.
 And apparently, you can use `ps T` and `kill` with no flags to force a refresh on
-the UWTFSGI config... but who has time for that. I'm getting amped on espresso
-and practicing for the big tourney.
+the UWTFSGI config... but who has time for that. Just writing it all down since stuff he
+says sometimes has its way of being really important. Not sure what we'll do without that guy around.
+
+Justin wrote QPS tester and the payment processor, so I'm pretty sure they work well... it must just be
+set up wrong. Maybe it's got the wrong endianness? Isn't stuff faster if you can byte-align it
+by endianness? Damned if I know.
+
+Anyways not digging into this today. I'm getting amped on espresso and practicing for the big tourney.
 
