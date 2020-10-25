@@ -7,8 +7,8 @@ payment processing debacle... People wearing suits keep coming by
 our open workspace, taking critical espresso-machine-line-space and asking
 about revenue and stuff I don't care about.
 
-Anyways. According to Justin if we could just configure WSGI (More like WTFSWGI
- amirite? I crack myself up).
+Anyways. According to Justin if we could just configure WSGI (More like WTFSGI
+ amirite? hahaha.... I crack myself up).
 
 It's supposedly a 1-character change and we could increase revenue 25%? Who would
 have thought.
