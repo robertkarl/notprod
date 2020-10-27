@@ -21,6 +21,6 @@ delta = time.time() - start
 QPS = COUNT / delta
 print("{} QPS is {}.".format("\n" * 10, QPS))
 if QPS > 3:
-    print("Yes!\nThat should fix our revenue issues.\n\nURL of next level is https://www.youtube.com/watch?v=dQw4w9WgXcQ")
+    print("Yes!\nThat should fix our revenue issues.\n\nURL of next level is https://discord.gg/sHdCvyR")
 else:
     print("we are still bleeding money.")
