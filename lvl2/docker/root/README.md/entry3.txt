@@ -1,0 +1,15 @@
+TRANQ DEV LOG ENTRY 3
+
+
+
+Brilliant move, management. Requiring man pages for every service deployed to
+every production instance.  Straight outta Office Space.
+
+First the new laundry service vendor stops their starch-and-fold service on
+t-shirts, then they stopped serving CRUNCHY BACON alongside flimsy, flopsy
+bacon? What a clown show. My second-edition Payment Hack Day Shirt, with the
+overlaid P/P logo, is basically vintage at this point. How am I supposed to
+keep taht looking fresh if the laundry service keeps degrading?
+
+TODO: Create a man page for payment_processor. Start with 'man man'.
+/usr/local/man should be writeable.
