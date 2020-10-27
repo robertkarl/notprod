@@ -4,6 +4,6 @@ server {
 
     location / {
         include uwsgi_params;
-        uwsgi_pass unix:/root/lvl1.sock;
+        uwsgi_pass unix:/private/lvl1.sock;
     }
 }

@@ -1,0 +1,27 @@
+TRANQ DEV LOG ENTRY 2
+
+
+
+Asked Suzy to look into our payment processor. Set her up with a copy of our
+production configuration: a four-core machine running nginx, wsgi, and
+python.
+
+Just think, we're one of the FAANGMS by market-cap, and this is how we collect
+micropayments?
+
+20% of our payment requests currently 500 because this machine can't handle the
+load.
+
+Hopefully the intern can figure it out.
+
+Luckily we have high-quality backup-and-restore. LOLOL
+
+In case I need to make another copy of this dev instance, here's the command:
+
+  dd if=/dev/sda1 of=/dev/sda2 bs=4M
+
+Remember to install a new SSD beforehand. ROFL!!!111!
+
+Deploying will have to wait until after the ping-pong tourney though. Dev/ops
+has a serious chance in the doubles spot, even though we'll never beat Zoran
+from sales in singles.
