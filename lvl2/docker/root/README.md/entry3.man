@@ -2,7 +2,7 @@ TRANQ DEV LOG ENTRY 3
 .\" Manpage for entry3.
 .TH payment_processor 1
 .SH NAME
-payment_processor \- Accept a mi
+payment_processor \- Accept a micropayment from a user
 .SH DESCRIPTION
 Brilliant move, management. Requiring man pages for every service deployed to
 every production instance.  Straight outta Office Space.
