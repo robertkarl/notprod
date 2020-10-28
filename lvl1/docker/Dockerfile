@@ -9,6 +9,8 @@ RUN apt-get -yq install emacs nginx vim htop curl httpie python3-pip
 
 RUN pip3 install uwsgi flask
 
+RUN apt-get -yq install zsh
+
 ADD  root/ /root/
 
 ADD infra/src /private/
