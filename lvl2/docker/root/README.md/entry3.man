@@ -1,0 +1,44 @@
+TRANQ DEV LOG ENTRY 3
+.\" Manpage for entry3.
+.TH payment_processor 1
+.SH NAME
+payment_processor \- Accept a mi
+.SH DESCRIPTION
+Brilliant move, management. Requiring man pages for every service deployed to
+every production instance.  Straight outta Office Space.
+
+
+First the new laundry service vendor stops their starch-and-fold service on
+t-shirts, then they stopped serving CRUNCHY BACON in cafeteria 2? Is everyone
+on ops asleep?
+
+.SH TODO
+Figure out how to file a ticket with ops about the laundry.
+
+.SH DESCRIPTION CONTINUED
+What a clown show. My second-edition Payments Team Hack Day Shirt, with the is
+basically vintage at this point. Could sell that for an extra bonus some day,
+we have 73% of engineers joined after that point. How many shirts like that can
+exist now? Need to keep taht looking fresh while work laundry service keeps
+degrading....
+
+Oh, note to self, /usr/local/man/man1 should be writeable. What's the point of
+documenting running services on the host that's.... running them, anyways?
+
+but man, these man pages look pretty nice. Maybe I'll continue taking notes
+this way.
+
+.SH ACTUAL TODO
+
+- [ ] Create a man page for payment_processor.
+- [ ] make sure it works with 'man payment_processor'
+- [ ] Use their freaking check_compliance.pl script to see if it worked.
+
+.SH SEE ALSO
+man, manpath, borat (2), mdoc
+
+.SH USAGE
+man ./entry3.man
+
+.SH AUTHOR
+Peter
